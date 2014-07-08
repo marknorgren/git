@@ -6,23 +6,30 @@ Comparison of different Git repository management solutions
 
 # Cloud Based
 
-## Github github.com
+## Github 
 
-## Bitbucket bitbucket.org
+https://github.com/
 
-## Gitlab gitlab.com
+
+## Bitbucket 
+
+https://bitbucket.org
+
+## Gitlab 
+
+https://about.gitlab.com/gitlab-com/
 
 
 # Self hosted 
 
 ## Github Enterprise
 
-### https://enterprise.github.com/
+https://enterprise.github.com/
 
 ## Atlassian's Stash
 
-### https://www.atlassian.com/software/stash
+https://www.atlassian.com/software/stash
 
 ## Gitlab
 
-### https://about.gitlab.com/
+https://about.gitlab.com/
