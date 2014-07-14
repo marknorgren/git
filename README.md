@@ -48,18 +48,34 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 
 ## Gitlab 
 
-https://about.gitlab.com/gitlab-com/
+* [https://about.gitlab.com/gitlab-com/](https://about.gitlab.com/gitlab-com/)
 
 
 # Self hosted 
 
 ## Github Enterprise
 
-https://enterprise.github.com/
+* [https://enterprise.github.com/](https://enterprise.github.com/)
+
+| Github Enterprise plans 	|||||||
+|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|**Cost** 			| $5,000 / yr   | $10,000 / yr	| $15,000 / yr	| $20,000 / yr  | $25,000 / yr 	| $28,500 / yr	|
+|**Users** 			| 20 			| 40			| 60			| 80			| 100			| 120   		| 
+|**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
 
 ## Atlassian's Stash
 
-https://www.atlassian.com/software/stash
+* [https://www.atlassian.com/software/stash](https://www.atlassian.com/software/stash)
+
+| Atlassian Stash plans 	|||||||
+|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|**Initial Cost**   | $10		    | $1,800		| $3,300     	| $6,000        | Coming Soon? 	| $16,000   	|
+|**Maintenance**   | $10 / yr      | $900 / yr	    | $1,650 / yr	| $3,000 / yr   | Coming Soon? 	| $8,000 / yr	|
+|**Users** 			| 10 			| 25			| 50			| 100    		| 250			| 500   		| 
+|**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
+
+* Atlassian Stash plans come with 1 year software maintenance for free.
+* [Atlassian Stash FAQs](https://www.atlassian.com/licensing/stash/)
 
 ## Gitlab
 
