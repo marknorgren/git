@@ -1,12 +1,19 @@
-GitRepositoryManagementComparisons
+# Git Resources
+
+* [A Hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+* [Stackoverflow - git terminology](http://stackoverflow.com/a/7076569/406)
+* [Think Like (a) Git](http://think-like-a-git.net/)
+
+
+# Git Repository Hosting Solutions
 ==================================
 
 Comparison of different Git repository management solutions
 
 
-# Cloud Based
+## Cloud Based
 
-## Github 
+### Github 
 
 * https://github.com/
 * Unlimited Collaborators
@@ -34,7 +41,7 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 
 
 
-## Bitbucket 
+### Bitbucket 
 
 * https://bitbucket.org
 * Unlimited Private Repos
@@ -46,14 +53,14 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 |**Users** 			| 5 			| 10			| 25			| 50			| 100			| Unlimited		| 
 |**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
 
-## Gitlab 
+### Gitlab 
 
 * [https://about.gitlab.com/gitlab-com/](https://about.gitlab.com/gitlab-com/)
 
 
-# Self hosted 
+## Self hosted 
 
-## Github Enterprise
+### Github Enterprise
 
 * [https://enterprise.github.com/](https://enterprise.github.com/)
 
@@ -63,7 +70,7 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 |**Users** 			| 20 			| 40			| 60			| 80			| 100			| 120   		| 
 |**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
 
-## Atlassian's Stash
+### Atlassian's Stash
 
 * [https://www.atlassian.com/software/stash](https://www.atlassian.com/software/stash)
 
@@ -77,6 +84,6 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 * Atlassian Stash plans come with 1 year software maintenance for free.
 * [Atlassian Stash FAQs](https://www.atlassian.com/licensing/stash/)
 
-## Gitlab
+### Gitlab
 
 https://about.gitlab.com/
