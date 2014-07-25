@@ -3,6 +3,7 @@
 * [A Hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Stackoverflow - git terminology](http://stackoverflow.com/a/7076569/406)
 * [Think Like (a) Git](http://think-like-a-git.net/)
+* [The simple git guide](https://rogerdudler.github.io/git-guide/)
 
 
 # Git Repository Hosting Solutions
