@@ -4,6 +4,7 @@
 * [Stackoverflow - git terminology](http://stackoverflow.com/a/7076569/406)
 * [Think Like (a) Git](http://think-like-a-git.net/)
 * [The simple git guide](https://rogerdudler.github.io/git-guide/)
+* [Git Essentials - a webinar by Atlassian](https://www.youtube.com/watch?v=wcbzd84eWnk)
 
 
 # Git Repository Hosting Solutions
