@@ -16,6 +16,11 @@ Comparison of different Git repository management solutions
 
 ## Cloud Based
 
+* Both Github and Bitbucket have a respository limit of about 1GB.
+  * https://blog.bitbucket.org/2014/05/30/repository-size-limits/
+  * https://help.github.com/articles/what-is-my-disk-quota/#rule-of-thumb-1gb-per-repository-100mb-per-file
+
+
 ### Github 
 
 * https://github.com/
