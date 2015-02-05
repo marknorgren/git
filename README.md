@@ -57,6 +57,7 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 * https://bitbucket.org
 * Unlimited Private Repos
 * From [https://bitbucket.org/plans](https://bitbucket.org/plans) 
+* Security: https://confluence.atlassian.com/pages/viewpage.action?pageId=282175543
 
 | Bitbucket plans 	|||||||
 |:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
