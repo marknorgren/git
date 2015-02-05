@@ -28,6 +28,8 @@ Comparison of different Git repository management solutions
 * Unlimited Collaborators
 * Unlimited Public Repositories
 * From [https://github.com/pricing](https://github.com/pricing)
+* Security Info: https://help.github.com/articles/github-security
+  * See: https://help.github.com/articles/github-security/#employee-access
 
 Github offers Personal Plans and Organizational Plans. According to their website:
 
