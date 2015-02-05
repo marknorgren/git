@@ -9,6 +9,11 @@
 * [Git in six hundred words by: Mary Rose Cook](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 
 
+# Git Migration
+
+* Migrate from SVN
+  * Atlassian's Guide: https://www.atlassian.com/git/tutorials/migrating-overview
+
 # Git Repository Hosting Solutions
 ==================================
 
