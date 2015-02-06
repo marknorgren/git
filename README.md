@@ -64,6 +64,11 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 * From [https://bitbucket.org/plans](https://bitbucket.org/plans) 
 * Security: https://confluence.atlassian.com/pages/viewpage.action?pageId=282175543
 
+#### Repo Size Limits
+
+* Soft Limit of 1GB, hard limit of 2GB
+  * https://blog.bitbucket.org/2014/05/30/repository-size-limits/
+
 | Bitbucket plans 	|||||||
 |:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |**Cost** 			| Free	        | $10 / mo  	| $25 / mo 		| $50 / mo 		| $100 / mo 	| $200 /mo		|
