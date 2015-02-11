@@ -1,13 +1,38 @@
 # Git Resources
 
-* [A Hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Stackoverflow - git terminology](http://stackoverflow.com/a/7076569/406)
+* [Git in six hundred words by: Mary Rose Cook](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
+* [A Hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Think Like (a) Git](http://think-like-a-git.net/)
 * [The simple git guide](https://rogerdudler.github.io/git-guide/)
 * [Git Essentials - a webinar by Atlassian](https://www.youtube.com/watch?v=wcbzd84eWnk)
 * http://think-like-a-git.net/sections/about-this-site.html
-* [Git in six hundred words by: Mary Rose Cook](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 
+* [Git and Github Resources](http://haacked.com/archive/2014/12/03/git-and-github-resources/)
+
+# Books
+
+* [Pro Git (free)](http://git-scm.com/book/en/v2)
+
+# Cheat Sheets
+* [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
+
+
+# Git Tools (GUIs)
+
+* [Source Tree](http://www.sourcetreeapp.com/) - Windows / Mac OS X (this is what I use on a Mac OS X)
+* [Git Extensions](http://sourceforge.net/projects/gitextensions/) - Windows / Mac OS X / Linux
+* [tortoisegit](https://code.google.com/p/tortoisegit/) - Windows
+* [Git Tower](http://www.git-tower.com/) - Mac OS X only
+* [GitX](http://gitx.frim.nl/) - Mac OS X only 
+* [SmartGit](http://www.syntevo.com/smartgit/) - Mac OS X, Windows and Linux
+* [Github for Windows](https://windows.github.com/)
+* [Github for Mac](https://mac.github.com/)
+
+# Git Links / Tips / Snippets
+
+* http://thelinell.com/2014/12/23/curated-git-links-of-2014/
+* 
 
 # Git Migration
 
