@@ -16,6 +16,9 @@
 
 # Cheat Sheets
 * [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
+* [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
+* [tiimgreen's cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [github's education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 # Git Tools (GUIs)
