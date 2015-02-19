@@ -137,3 +137,8 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 ### Gitlab
 
 https://about.gitlab.com/
+
+
+# Git Merging
+
+<img src="https://docs.google.com/drawings/d/1MNxHD5UG1JpilalijGZ2nJHEZ4Wzi_imTtMH-m-mViA/pub?w=960&amp;h=720">
