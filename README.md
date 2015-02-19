@@ -141,5 +141,5 @@ https://about.gitlab.com/
 
 # Git Merging
 
-![](https://docs.google.com/drawings/d/1MNxHD5UG1JpilalijGZ2nJHEZ4Wzi_imTtMH-m-mViA/pub)
+![](https://docs.google.com/drawings/d/1MNxHD5UG1JpilalijGZ2nJHEZ4Wzi_imTtMH-m-mViA/pub?w=960&amp;h=720)
 <img src="https://docs.google.com/drawings/d/1MNxHD5UG1JpilalijGZ2nJHEZ4Wzi_imTtMH-m-mViA/pub?w=960&amp;h=720">
