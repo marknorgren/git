@@ -39,10 +39,10 @@
 
 # Git Processes / Workflows
 
-* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-  * I belive this is model is what git flow is based on
+
 
 ## git flow
+  * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
   * [How to use a scalable Git branching model called Gitflow](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow)
   * [gitflow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
   * [Atlassian's gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
