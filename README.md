@@ -14,6 +14,10 @@
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
 
+# Podcasts
+
+* [gitminutes](http://episodes.gitminutes.com/)
+
 # Cheat Sheets
 * [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
@@ -32,10 +36,27 @@
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
 
+
+# Git Processes / Workflows
+
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+  * I belive this is model is what git flow is based on
+
+## git flow
+  * [How to use a scalable Git branching model called Gitflow](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow)
+  * [gitflow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+  * [Atlassian's gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 # Git Links / Tips / Snippets
 
 * http://thelinell.com/2014/12/23/curated-git-links-of-2014/
 * 
+
+# dvcs
+
+Distributed Version Control - articles, links, general
+
+* [Distributed Version Control is here to stay](http://www.joelonsoftware.com/items/2010/03/17.html)
 
 # Git Migration
 
