@@ -8,7 +8,7 @@
 * [Git Essentials - a webinar by Atlassian](https://www.youtube.com/watch?v=wcbzd84eWnk)
 * http://think-like-a-git.net/sections/about-this-site.html
 * [Git and Github Resources](http://haacked.com/archive/2014/12/03/git-and-github-resources/)
-* [aha moments when learning git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
+* [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
 
 # Books
 
