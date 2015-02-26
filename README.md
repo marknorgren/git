@@ -9,6 +9,7 @@
 * http://think-like-a-git.net/sections/about-this-site.html
 * [Git and Github Resources](http://haacked.com/archive/2014/12/03/git-and-github-resources/)
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
+* [Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
 # Books
 
