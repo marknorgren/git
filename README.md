@@ -23,6 +23,7 @@
 * [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [tiimgreen's cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [github's education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [another git cheat sheet](http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png)
 
 
 # Git Tools (GUIs)
