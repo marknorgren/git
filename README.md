@@ -38,6 +38,10 @@
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
 
+# Git Tools
+
+* Creating .gitignore files
+  * https://www.gitignore.io/ - create .gitignore files for different languages, IDEs, etc.
 
 # Git Processes / Workflows
 
