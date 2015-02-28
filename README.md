@@ -11,15 +11,15 @@
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
-# Books
+## Books
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
 
-# Podcasts
+## Podcasts
 
 * [gitminutes](http://episodes.gitminutes.com/)
 
-# Cheat Sheets
+## Cheat Sheets
 * [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [tiimgreen's cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
@@ -27,7 +27,9 @@
 * [another git cheat sheet](http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png)
 
 
-# Git Tools (GUIs)
+# Git Tools 
+
+## GUIs
 
 * [Source Tree](http://www.sourcetreeapp.com/) - Windows / Mac OS X (this is what I use on a Mac OS X)
 * [Git Extensions](http://sourceforge.net/projects/gitextensions/) - Windows / Mac OS X / Linux
@@ -38,7 +40,7 @@
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
 
-# Git Tools
+## .gitignore
 
 * Creating .gitignore files
   * https://www.gitignore.io/ - create .gitignore files for different languages, IDEs, etc.
