@@ -11,6 +11,10 @@
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
+## Style Guide
+
+* https://github.com/agis-/git-style-guide
+
 ## Books
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
