@@ -49,6 +49,14 @@
 * Creating .gitignore files
   * https://www.gitignore.io/ - create .gitignore files for different languages, IDEs, etc.
 
+## Handling Large Files
+
+### git-lfs
+
+* [Git Large File Storage Website](https://git-lfs.github.com/)
+* [git-lfs repo](https://github.com/github/git-lfs?utm_source=gitlfs_site&utm_medium=repo_link&utm_campaign=gitlfs)
+
+
 # Git Processes / Workflows
 
 
