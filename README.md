@@ -55,6 +55,21 @@
 
 * [Git Large File Storage Website](https://git-lfs.github.com/)
 * [git-lfs repo](https://github.com/github/git-lfs?utm_source=gitlfs_site&utm_medium=repo_link&utm_campaign=gitlfs)
+* [Hacker News Discussion](https://news.ycombinator.com/item?id=9343021)
+
+
+### git-bigstore
+
+* https://github.com/lionheart/git-bigstore
+
+### git-media
+
+* https://github.com/alebedev/git-media
+
+### git-annex
+
+* https://git-annex.branchable.com/
+
 
 
 # Git Processes / Workflows
