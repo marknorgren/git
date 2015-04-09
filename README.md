@@ -18,6 +18,7 @@
 ## Books
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
+* [git internals PDF](https://github.com/pluralsight/git-internals-pdf)
 
 ## Podcasts
 
@@ -27,6 +28,8 @@
 * [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [tiimgreen's cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
+  * [github cheatsheet](https://github.com/tiimgreen/github-cheat-sheet#github)
+  * [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet#git)
 * [github's education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [another git cheat sheet](http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png)
 
