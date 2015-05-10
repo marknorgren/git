@@ -10,6 +10,9 @@
 * [Git and Github Resources](http://haacked.com/archive/2014/12/03/git-and-github-resources/)
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hackernewsyc+%28Hacker+News+YC%29)
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+* [Explain Git with D3](http://www.wei-wang.com/ExplainGitWithD3)
+* [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 ## Style Guide
 
@@ -19,6 +22,11 @@
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
 * [git internals PDF](https://github.com/pluralsight/git-internals-pdf)
+
+
+## Videos / Talks
+
+* [Daily Tech Git Videos](http://dailytechvideo.com/category/git/)
 
 ## Podcasts
 
