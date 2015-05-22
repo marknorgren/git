@@ -55,6 +55,7 @@
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
 * [gitup](http://gitup.co/)
+  
   This is a new tool that I haven't tried yet, but it looks very promising. It is in pre-release
   state as of writing this. I am going to keep an eye on this.
   * [gitup forums](http://forums.gitup.co/)
