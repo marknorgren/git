@@ -18,6 +18,10 @@
 
 * https://github.com/agis-/git-style-guide
 
+## Commit Guidelines
+
+* [AngularJS project - commit guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines)
+
 ## Books
 
 * [Pro Git (free)](http://git-scm.com/book/en/v2)
