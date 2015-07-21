@@ -71,6 +71,10 @@
 
 ## Handling Large Files
 
+### Remove Large Files
+
+* https://rtyley.github.io/bfg-repo-cleaner/
+
 ### git-lfs
 
 * [Git Large File Storage Website](https://git-lfs.github.com/)
@@ -89,6 +93,8 @@
 ### git-annex
 
 * https://git-annex.branchable.com/
+
+
 
 
 
@@ -117,6 +123,9 @@ Distributed Version Control - articles, links, general
 
 * Migrate from SVN
   * Atlassian's Guide: https://www.atlassian.com/git/tutorials/migrating-overview
+  * Remove Large Files
+    * https://rtyley.github.io/bfg-repo-cleaner/
+    * 
 
 # Git Repository Hosting Solutions
 ==================================
