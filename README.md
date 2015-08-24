@@ -227,3 +227,10 @@ https://about.gitlab.com/
 # Git Merging
 
 ![](https://docs.google.com/drawings/d/1MNxHD5UG1JpilalijGZ2nJHEZ4Wzi_imTtMH-m-mViA/pub?w=960&amp;h=720)
+
+# Empty Directories
+
+Git will not track empty directories, there must be a file in the directory for Git to track it.
+
+* See: https://git.wiki.kernel.org/index.php/Git_FAQ#Can_I_add_empty_directories.3F
+* 
