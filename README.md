@@ -30,6 +30,7 @@
 
 ## Videos / Talks
 
+* [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 * [Daily Tech Git Videos](http://dailytechvideo.com/category/git/)
 
 ## Podcasts
