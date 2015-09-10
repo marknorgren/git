@@ -38,6 +38,7 @@
 * [gitminutes](http://episodes.gitminutes.com/)
 
 ## Cheat Sheets
+* [git-tips](https://github.com/git-tips/tips)
 * [Git Tower's Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [ndpsoftware's cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [tiimgreen's cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
@@ -64,6 +65,12 @@
   This is a new tool that I haven't tried yet, but it looks very promising. It is in pre-release
   state as of writing this. I am going to keep an eye on this.
   * [gitup forums](http://forums.gitup.co/)
+
+
+## addons
+
+* https://github.com/stevemao/awesome-git-addons
+* 
 
 ## .gitignore
 
