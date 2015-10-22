@@ -207,22 +207,23 @@ Github offers Personal Plans and Organizational Plans. According to their websit
 
 * [https://enterprise.github.com/](https://enterprise.github.com/)
 
-| Github Enterprise plans 	|||||||
-|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|**Cost** 			| $5,000 / yr   | $10,000 / yr	| $15,000 / yr	| $20,000 / yr  | $25,000 / yr 	| $28,500 / yr	|
-|**Users** 			| 20 			| 40			| 60			| 80			| 100			| 120   		| 
-|**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
+| Github Enterprise plans |        |        |         |         |         |         |         |         |         |         |         |
+|:-----------------------:|--------|:------:|:-------:|---------|:-------:|---------|:-------:|---------|:-------:|---------|:-------:|
+|     **Cost / Year**     | $2,500 | $5,000 | $10,000 | $11,875 | $14,250 | $16,625 | $19,000 | $21,375 | $23,750 | $26,125 | $28,500 |
+|        **Users**        |        |   20   |    40   | 50      |    60   | 70      |    80   | 90      |   100   | 110     |   120   |
+
+* Unlimited Private Repos
 
 ### Atlassian's Stash
 
 * [https://www.atlassian.com/software/stash](https://www.atlassian.com/software/stash)
 
-| Atlassian Stash plans |           |           |             |             |           |             |           |           |            |
+| Stash |           |           |             |             |           |             |           |           |            |
 |:---------------------:|:---------:|:---------:|:-----------:|:-----------:|:---------:|:-----------:|-----------|-----------|------------|
 |    **Initial Cost**   |    $10    |   $1,800  |    $3,300   |    $6,000   |  $12,000  |   $16,000   | $24,000   | $48,000   | Contact Us |
 |    **Maintenance**    |  $10 / yr | $900 / yr | $1,650 / yr | $3,000 / yr |   $6,000  | $8,000 / yr | $12,000   | $24,000   | Contact Us |
-| **Users** upper limit |     10    |     25    |      50     |     100     |    250    |     500     | 1000      | 2000      |            |
-|   **Private Repos**   | Unlimited | Unlimited |  Unlimited  |  Unlimited  | Unlimited |  Unlimited  | Unlimited | Unlimited |            |
+|       **Users**       |     10    |     25    |      50     |     100     |    250    |     500     | 1000      | 2000      | 2000+      |
+|   **Private Repos**   | Unlimited | Unlimited |  Unlimited  |  Unlimited  | Unlimited |  Unlimited  | Unlimited | Unlimited | Unlimited  |
 
 * Atlassian Stash plans come with 1 year software maintenance for free.
 * [Atlassian Stash FAQs](https://www.atlassian.com/licensing/stash/)
