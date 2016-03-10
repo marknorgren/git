@@ -4,6 +4,8 @@
     staged = diff --cached
     # Show the diff between the latest commit and the current state
     d = !"git diff-index --quiet HEAD -- || clear; git diff --patch-with-stat"
-    
+[user]
+    name = Mark Norgren
+    email = <not-set>    
 [pull]
     rebase = true
