@@ -1,0 +1,9 @@
+[alias]
+    l = log --graph --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset'
+    unstage = reset HEAD
+    staged = diff --cached
+    # Show the diff between the latest commit and the current state
+    d = !"git diff-index --quiet HEAD -- || clear; git diff --patch-with-stat"
+    
+[pull]
+    rebase = true
