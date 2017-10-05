@@ -47,6 +47,11 @@
 * [github's education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [another git cheat sheet](http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png)
 
+# Setup / Configuration
+
+## Aliases
+
+- Commit Counts - `git config --global alias.count 'rev-list --count HEAD'`
 
 # Git Tools 
 
