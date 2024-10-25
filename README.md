@@ -20,6 +20,7 @@
 
 ## Commit Guidelines
 
+* [conventional commits](https://www.conventionalcommits.org) - A specification for adding human and machine readable meaning to commit messages.
 * [AngularJS project - commit guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines)
 
 ## Books
@@ -53,29 +54,28 @@
 
 - Commit Counts - `git config --global alias.count 'rev-list --count HEAD'`
 
-# Git Tools 
+# Git Tools
 
 ## GUIs
 
-* [Source Tree](http://www.sourcetreeapp.com/) - Windows / Mac OS X (this is what I use on a Mac OS X)
-* [Git Extensions](http://sourceforge.net/projects/gitextensions/) - Windows / Mac OS X / Linux
+* [git fork](https://git-fork.com) - this is the gui I use and highly recommend.
+
+### Others
+
+* [Source Tree](http://www.sourcetreeapp.com/) - Windows / macOS
+* [Git Extensions](http://sourceforge.net/projects/gitextensions/) - Windows / macOS / Linux
 * [tortoisegit](https://code.google.com/p/tortoisegit/) - Windows
-* [Git Tower](http://www.git-tower.com/) - Mac OS X only
-* [GitX](http://gitx.frim.nl/) - Mac OS X only 
-* [SmartGit](http://www.syntevo.com/smartgit/) - Mac OS X, Windows and Linux
+* [Git Tower](http://www.git-tower.com/) - macOS only
+* [GitX](http://gitx.frim.nl/) - macOS only
+* [SmartGit](http://www.syntevo.com/smartgit/) - macOS, Windows and Linux
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
-* [gitup](http://gitup.co/)
-  
-  This is a new tool that I haven't tried yet, but it looks very promising. It is in pre-release
-  state as of writing this. I am going to keep an eye on this.
-  * [gitup forums](http://forums.gitup.co/)
-
+* [gitup](http://gitup.co/) - Interesting live view, may help while learning git
 
 ## addons
 
 * https://github.com/stevemao/awesome-git-addons
-* 
+*
 
 ## .gitignore
 
@@ -107,13 +107,7 @@
 
 * https://git-annex.branchable.com/
 
-
-
-
-
 # Git Processes / Workflows
-
-
 
 ## git flow
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
@@ -124,13 +118,13 @@
 # Git Links / Tips / Snippets
 
 * http://thelinell.com/2014/12/23/curated-git-links-of-2014/
-* 
+*
 
 # dvcs
 
 Distributed Version Control - articles, links, general
 
-* [Distributed Version Control is here to stay](http://www.joelonsoftware.com/items/2010/03/17.html)
+* [Distributed Version Control is here to stay](https://www.joelonsoftware.com/2010/03/17/distributed-version-control-is-here-to-stay-baby/)
 
 # Git Migration
 
@@ -138,106 +132,27 @@ Distributed Version Control - articles, links, general
   * Atlassian's Guide: https://www.atlassian.com/git/tutorials/migrating-overview
   * Remove Large Files
     * https://rtyley.github.io/bfg-repo-cleaner/
-    * 
+    *
 
 # Git Repository Hosting Solutions
-==================================
-
-Comparison of different Git repository management solutions
 
 
 ## Cloud Based
 
-* Both Github and Bitbucket have a respository limit of about 1GB.
-  * https://blog.bitbucket.org/2014/05/30/repository-size-limits/
-  * https://help.github.com/articles/what-is-my-disk-quota/#rule-of-thumb-1gb-per-repository-100mb-per-file
 
 
-### Github 
+### Github
 
 * https://github.com/
-* Unlimited Collaborators
-* Unlimited Public Repositories
-* From [https://github.com/pricing](https://github.com/pricing)
-* Security Info: https://help.github.com/articles/github-security
-  * See: https://help.github.com/articles/github-security/#employee-access
 
-Github offers Personal Plans and Organizational Plans. According to their website:
-
-* **Personal Plans** - For individuals looking to share their own projects and collaborate with others.
-* **Organizational Plans** -  Organizations are best suited for businesses managing teams and varying permissions.
-
-| Github Personal Plans 	|||||||				
-|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|**Cost** 			| Free	        | $7 / mo  		| $12 / mo 		| $22 / mo 		| $50 / mo 		| *Not Offered*	|
-|**Users** 			| Unlimited		| Unlimited		| Unlimited		| Unlimited		| Unlimited		| Unlimited		| 
-|**Private Repos** 	| 0 			| 5 			| 10 			| 20 			| 50 			| Unlimited		|
-
-
-
-| Github Organization plans 	|||||||				
-|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|**Cost** 			| Free	        | $25 / mo  	| $50 / mo 		| $100 / mo 	| $200 / mo 	| *Not Offered*	|
-|**Users** 			| Unlimited		| Unlimited		| Unlimited		| Unlimited		| Unlimited		| Unlimited		| 
-|**Private Repos** 	| 0 			| 10 			| 20 			| 50 			| 125 			| Unlimited		|
-
-
-
-### Bitbucket 
+### Bitbucket
 
 * https://bitbucket.org
-* Unlimited Private Repos
-* From [https://bitbucket.org/plans](https://bitbucket.org/plans) 
-* Security: https://confluence.atlassian.com/pages/viewpage.action?pageId=282175543
 
-#### Repo Size Limits
-
-* Soft Limit of 1GB, hard limit of 2GB
-  * https://blog.bitbucket.org/2014/05/30/repository-size-limits/
-
-| Bitbucket plans 	|||||||
-|:-----------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|**Cost** 			| Free	        | $10 / mo  	| $25 / mo 		| $50 / mo 		| $100 / mo 	| $200 /mo		|
-|**Users** 			| 5 			| 10			| 25			| 50			| 100			| Unlimited		| 
-|**Private Repos** 	| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		| Unlimited 	| Unlimited		|
-
-### Gitlab 
-
-* [https://about.gitlab.com/gitlab-com/](https://about.gitlab.com/gitlab-com/)
-
-
-## Self hosted 
-
-### Github Enterprise
-
-* [https://enterprise.github.com/](https://enterprise.github.com/)
-
-| Github Enterprise plans |        |        |         |         |         |         |         |         |         |         |         |
-|:-----------------------:|--------|:------:|:-------:|---------|:-------:|---------|:-------:|---------|:-------:|---------|:-------:|
-|     **Cost / Year**     | $2,500 | $5,000 | $10,000 | $11,875 | $14,250 | $16,625 | $19,000 | $21,375 | $23,750 | $26,125 | $28,500 |
-|        **Users**        |  10    |   20   |    40   | 50      |    60   | 70      |    80   | 90      |   100   | 110     |   120   |
-
-* Unlimited Private Repos
-
-### Atlassian's Bitbucket Server
-
-* [https://www.atlassian.com/software/bitbucket/server](https://www.atlassian.com/software/bitbucket/server)
-
-| Bitbucket Server |           |           |             |             |           |             |           |           |            |
-|:---------------------:|:---------:|:---------:|:-----------:|:-----------:|:---------:|:-----------:|-----------|-----------|------------|
-|    **Initial Cost**   |    $10    |   $1,800  |    $3,300   |    $6,000   |  $12,000  |   $16,000   | $24,000   | $48,000   | Contact Us |
-|    **Maintenance**    |  $10 / yr | $900 / yr | $1,650 / yr | $3,000 / yr |   $6,000  | $8,000 / yr | $12,000   | $24,000   | Contact Us |
-|       **Users**       |     10    |     25    |      50     |     100     |    250    |     500     | 1000      | 2000      | 2000+      |
-
-* Unlimited Private Repos
-* Atlassian Bitbucket Server plans come with 1 year software maintenance for free.
-* Bitbucket Server renamed from old product Stash
-* [Bitbucket Server Licensing and Pricing](https://www.atlassian.com/licensing/bitbucket-server/) 
-* [Atlassian Bitbucket Server FAQs](https://www.atlassian.com/licensing/stash/)
 
 ### Gitlab
 
-https://about.gitlab.com/
+* [https://about.gitlab.com/gitlab-com/](https://about.gitlab.com/gitlab-com/)
 
 
 # Git Merging
@@ -248,5 +163,5 @@ https://about.gitlab.com/
 
 Git will not track empty directories, there must be a file in the directory for Git to track it.
 
+* [.gitkeep file](https://stackoverflow.com/a/7229996/406) - common pattern to save a directory
 * See: https://git.wiki.kernel.org/index.php/Git_FAQ#Can_I_add_empty_directories.3F
-* 
