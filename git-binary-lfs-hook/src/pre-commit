@@ -1,0 +1,88 @@
+#!/bin/bash
+
+# Function to check if a file is a symlink
+is_symlink() {
+    [ -L "$1" ]
+}
+
+# Function to check if a file is binary
+is_binary() {
+    local file="$1"
+    
+    # Skip symbolic links
+    if is_symlink "$file"; then
+        return 1
+    fi
+    
+    # Skip empty files
+    if [ ! -s "$file" ]; then
+        return 1
+    fi
+    
+    # Use file command to detect binary files
+    if file --mime-encoding "$file" | grep -q binary; then
+        return 0
+    fi
+    
+    # Additional check for PDFs
+    if file "$file" | grep -qi "pdf document"; then
+        return 0
+    fi
+    
+    return 1
+}
+
+# Function to check if a file is already LFS tracked
+is_lfs_tracked() {
+    local file="$1"
+    if [ -f ".gitattributes" ]; then
+        grep -q "\"$file\" filter=lfs diff=lfs merge=lfs -text" .gitattributes
+        return $?
+    fi
+    return 1
+}
+
+# Get list of staged files
+staged_files=$(git diff --cached --name-only)
+
+# Initialize error flag
+has_error=0
+
+for file in $staged_files; do
+    # Skip if file is deleted or doesn't exist
+    if [ ! -f "$file" ]; then
+        continue
+    fi
+    
+    # Skip if already LFS tracked
+    if is_lfs_tracked "$file"; then
+        continue
+    fi
+    
+    # Check if file is binary
+    if is_binary "$file"; then
+        echo "Binary file detected: $file"
+        echo "Adding to Git LFS..."
+        
+        # Add the file pattern to .gitattributes
+        echo "\"$file\" filter=lfs diff=lfs merge=lfs -text" >> .gitattributes
+        
+        # Unstage the file
+        git reset HEAD "$file" || true
+        
+        # Track with LFS and re-add
+        git lfs track "$file"
+        git add "$file"
+        git add .gitattributes
+        
+        has_error=1
+    fi
+done
+
+if [ $has_error -eq 1 ]; then
+    echo "Binary files were detected and automatically added to Git LFS."
+    echo "Please commit again to include these changes."
+    exit 1
+fi
+
+exit 0
